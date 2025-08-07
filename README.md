@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harita27/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Harita27/leetcode/tree/master/0125-valid-palindrome) |
 | [0953-reverse-only-letters](https://github.com/Harita27/leetcode/tree/master/0953-reverse-only-letters) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harita27/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Harita27/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Harita27/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Harita27/leetcode/tree/master/0125-valid-palindrome) |
 | [0953-reverse-only-letters](https://github.com/Harita27/leetcode/tree/master/0953-reverse-only-letters) |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Harita27/leetcode/tree/master/0049-group-anagrams) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Harita27/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
