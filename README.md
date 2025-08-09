@@ -43,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harita27/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0826-soup-servings](https://github.com/Harita27/leetcode/tree/master/0826-soup-servings) |
 ## Math
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Harita27/leetcode/tree/master/0231-power-of-two) |
+| [0826-soup-servings](https://github.com/Harita27/leetcode/tree/master/0826-soup-servings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Harita27/leetcode/tree/master/0231-power-of-two) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Harita27/leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
