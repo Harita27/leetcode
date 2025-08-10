@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harita27/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Harita27/leetcode/tree/master/0049-group-anagrams) |
+| [0900-reordered-power-of-2](https://github.com/Harita27/leetcode/tree/master/0900-reordered-power-of-2) |
 ## Sliding Window
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Harita27/leetcode/tree/master/0049-group-anagrams) |
+| [0900-reordered-power-of-2](https://github.com/Harita27/leetcode/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Harita27/leetcode/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/Harita27/leetcode/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/Harita27/leetcode/tree/master/0900-reordered-power-of-2) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -61,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Harita27/leetcode/tree/master/0826-soup-servings) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/Harita27/leetcode/tree/master/0900-reordered-power-of-2) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/Harita27/leetcode/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
