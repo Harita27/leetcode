@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harita27/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/Harita27/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Harita27/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Harita27/leetcode/tree/master/0283-move-zeroes) |
 | [0953-reverse-only-letters](https://github.com/Harita27/leetcode/tree/master/0953-reverse-only-letters) |
@@ -39,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Harita27/leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Harita27/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Harita27/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Harita27/leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Harita27/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Harita27/leetcode/tree/master/0075-sort-colors) |
 | [0900-reordered-power-of-2](https://github.com/Harita27/leetcode/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
 |  |
