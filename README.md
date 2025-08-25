@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Harita27/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Harita27/leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Harita27/leetcode/tree/master/0283-move-zeroes) |
+| [0498-diagonal-traverse](https://github.com/Harita27/leetcode/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/Harita27/leetcode/tree/master/0679-24-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Harita27/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harita27/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -149,8 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Harita27/leetcode/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Harita27/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Harita27/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Harita27/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Harita27/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/Harita27/leetcode/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
