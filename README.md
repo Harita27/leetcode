@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Harita27/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Harita27/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Harita27/leetcode/tree/master/0075-sort-colors) |
+| [0198-house-robber](https://github.com/Harita27/leetcode/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Harita27/leetcode/tree/master/0283-move-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Harita27/leetcode/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/Harita27/leetcode/tree/master/0679-24-game) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harita27/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Harita27/leetcode/tree/master/0042-trapping-rain-water) |
+| [0198-house-robber](https://github.com/Harita27/leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Harita27/leetcode/tree/master/0392-is-subsequence) |
 | [0826-soup-servings](https://github.com/Harita27/leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Harita27/leetcode/tree/master/0867-new-21-game) |
