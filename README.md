@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Harita27/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Harita27/leetcode/tree/master/0392-is-subsequence) |
 | [0953-reverse-only-letters](https://github.com/Harita27/leetcode/tree/master/0953-reverse-only-letters) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Harita27/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harita27/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Harita27/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Harita27/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Harita27/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2529-range-product-queries-of-powers](https://github.com/Harita27/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Harita27/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Harita27/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Harita27/leetcode/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/Harita27/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0900-reordered-power-of-2](https://github.com/Harita27/leetcode/tree/master/0900-reordered-power-of-2) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Harita27/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/Harita27/leetcode/tree/master/1448-maximum-69-number) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Harita27/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Backtracking
 |  |
 | ------- |
