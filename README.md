@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harita27/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Harita27/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Harita27/leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Harita27/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Harita27/leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Harita27/leetcode/tree/master/0392-is-subsequence) |
 | [0953-reverse-only-letters](https://github.com/Harita27/leetcode/tree/master/0953-reverse-only-letters) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Harita27/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Harita27/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Harita27/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Harita27/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Harita27/leetcode/tree/master/0342-power-of-four) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Harita27/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Harita27/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Harita27/leetcode/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/Harita27/leetcode/tree/master/2529-range-product-queries-of-powers) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Harita27/leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Harita27/leetcode/tree/master/0498-diagonal-traverse) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Harita27/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2386-min-max-game](https://github.com/Harita27/leetcode/tree/master/2386-min-max-game) |
