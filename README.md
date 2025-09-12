@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Harita27/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0414-third-maximum-number](https://github.com/Harita27/leetcode/tree/master/0414-third-maximum-number) |
 | [0900-reordered-power-of-2](https://github.com/Harita27/leetcode/tree/master/0900-reordered-power-of-2) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harita27/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Harita27/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Harita27/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1031-add-to-array-form-of-integer](https://github.com/Harita27/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1448-maximum-69-number](https://github.com/Harita27/leetcode/tree/master/1448-maximum-69-number) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harita27/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Harita27/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2605-count-anagrams](https://github.com/Harita27/leetcode/tree/master/2605-count-anagrams) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Harita27/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/Harita27/leetcode/tree/master/1448-maximum-69-number) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harita27/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Harita27/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Harita27/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Backtracking
