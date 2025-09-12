@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Harita27/leetcode/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/Harita27/leetcode/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/Harita27/leetcode/tree/master/0979-di-string-match) |
+| [1168-duplicate-zeros](https://github.com/Harita27/leetcode/tree/master/1168-duplicate-zeros) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Harita27/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Harita27/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0979-di-string-match](https://github.com/Harita27/leetcode/tree/master/0979-di-string-match) |
 | [1031-add-to-array-form-of-integer](https://github.com/Harita27/leetcode/tree/master/1031-add-to-array-form-of-integer) |
+| [1168-duplicate-zeros](https://github.com/Harita27/leetcode/tree/master/1168-duplicate-zeros) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Harita27/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harita27/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Harita27/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
