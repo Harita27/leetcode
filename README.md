@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harita27/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harita27/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Harita27/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Harita27/leetcode/tree/master/0696-count-binary-substrings) |
 | [0953-reverse-only-letters](https://github.com/Harita27/leetcode/tree/master/0953-reverse-only-letters) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Harita27/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## String
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Harita27/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harita27/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Harita27/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/Harita27/leetcode/tree/master/0696-count-binary-substrings) |
 | [0953-reverse-only-letters](https://github.com/Harita27/leetcode/tree/master/0953-reverse-only-letters) |
 | [1666-make-the-string-great](https://github.com/Harita27/leetcode/tree/master/1666-make-the-string-great) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Harita27/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
