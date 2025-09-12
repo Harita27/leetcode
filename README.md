@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Harita27/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Harita27/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Harita27/leetcode/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/Harita27/leetcode/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/Harita27/leetcode/tree/master/0541-reverse-string-ii) |
 | [0953-reverse-only-letters](https://github.com/Harita27/leetcode/tree/master/0953-reverse-only-letters) |
 | [1666-make-the-string-great](https://github.com/Harita27/leetcode/tree/master/1666-make-the-string-great) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Harita27/leetcode/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/Harita27/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0409-longest-palindrome](https://github.com/Harita27/leetcode/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/Harita27/leetcode/tree/master/0500-keyboard-row) |
 | [0900-reordered-power-of-2](https://github.com/Harita27/leetcode/tree/master/0900-reordered-power-of-2) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Harita27/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2605-count-anagrams](https://github.com/Harita27/leetcode/tree/master/2605-count-anagrams) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Harita27/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Harita27/leetcode/tree/master/0414-third-maximum-number) |
 | [0498-diagonal-traverse](https://github.com/Harita27/leetcode/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/Harita27/leetcode/tree/master/0500-keyboard-row) |
 | [0679-24-game](https://github.com/Harita27/leetcode/tree/master/0679-24-game) |
 | [0747-min-cost-climbing-stairs](https://github.com/Harita27/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/Harita27/leetcode/tree/master/0794-swim-in-rising-water) |
