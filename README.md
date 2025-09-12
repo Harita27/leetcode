@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Harita27/leetcode/tree/master/0392-is-subsequence) |
 | [0953-reverse-only-letters](https://github.com/Harita27/leetcode/tree/master/0953-reverse-only-letters) |
 | [1666-make-the-string-great](https://github.com/Harita27/leetcode/tree/master/1666-make-the-string-great) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Harita27/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Harita27/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Harita27/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2605-count-anagrams](https://github.com/Harita27/leetcode/tree/master/2605-count-anagrams) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Harita27/leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Harita27/leetcode/tree/master/0498-diagonal-traverse) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Harita27/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Harita27/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2386-min-max-game](https://github.com/Harita27/leetcode/tree/master/2386-min-max-game) |
 ## Memoization
