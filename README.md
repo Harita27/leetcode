@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/Harita27/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2777-find-the-distinct-difference-array](https://github.com/Harita27/leetcode/tree/master/2777-find-the-distinct-difference-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Harita27/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3311-ant-on-the-boundary](https://github.com/Harita27/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Harita27/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Harita27/leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Harita27/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/Harita27/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2529-range-product-queries-of-powers](https://github.com/Harita27/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2714-left-and-right-sum-differences](https://github.com/Harita27/leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [3311-ant-on-the-boundary](https://github.com/Harita27/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Design
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Harita27/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2386-min-max-game](https://github.com/Harita27/leetcode/tree/master/2386-min-max-game) |
 | [2886-faulty-keyboard](https://github.com/Harita27/leetcode/tree/master/2886-faulty-keyboard) |
+| [3311-ant-on-the-boundary](https://github.com/Harita27/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Memoization
 |  |
 | ------- |
