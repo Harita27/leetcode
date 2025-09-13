@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harita27/leetcode/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harita27/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Harita27/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Harita27/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1666-make-the-string-great](https://github.com/Harita27/leetcode/tree/master/1666-make-the-string-great) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harita27/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harita27/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0794-swim-in-rising-water](https://github.com/Harita27/leetcode/tree/master/0794-swim-in-rising-water) |
 ## Breadth-First Search
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harita27/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harita27/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harita27/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Harita27/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harita27/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harita27/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Linked List
