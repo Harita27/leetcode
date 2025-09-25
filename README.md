@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harita27/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Harita27/leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Harita27/leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Harita27/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Harita27/leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Harita27/leetcode/tree/master/0392-is-subsequence) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Harita27/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Harita27/leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Harita27/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Harita27/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Harita27/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Harita27/leetcode/tree/master/0342-power-of-four) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Harita27/leetcode/tree/master/0070-climbing-stairs) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Harita27/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Binary Search
 |  |
