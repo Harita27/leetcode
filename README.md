@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harita27/leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Harita27/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Harita27/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Harita27/leetcode/tree/master/0070-climbing-stairs) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harita27/leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Harita27/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Harita27/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Harita27/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harita27/leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Harita27/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harita27/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Harita27/leetcode/tree/master/0206-reverse-linked-list) |
