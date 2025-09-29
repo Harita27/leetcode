@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harita27/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Harita27/leetcode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Harita27/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Harita27/leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Harita27/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Harita27/leetcode/tree/master/0198-house-robber) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harita27/leetcode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Harita27/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Harita27/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Harita27/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Harita27/leetcode/tree/master/0070-climbing-stairs) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Harita27/leetcode/tree/master/0062-unique-paths) |
 | [2605-count-anagrams](https://github.com/Harita27/leetcode/tree/master/2605-count-anagrams) |
 ## Divide and Conquer
 |  |
