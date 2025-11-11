@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/Harita27/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2714-left-and-right-sum-differences](https://github.com/Harita27/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2777-find-the-distinct-difference-array](https://github.com/Harita27/leetcode/tree/master/2777-find-the-distinct-difference-array) |
+| [3226-minimum-number-game](https://github.com/Harita27/leetcode/tree/master/3226-minimum-number-game) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Harita27/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3311-ant-on-the-boundary](https://github.com/Harita27/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Harita27/leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Harita27/leetcode/tree/master/0900-reordered-power-of-2) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harita27/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Harita27/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3226-minimum-number-game](https://github.com/Harita27/leetcode/tree/master/3226-minimum-number-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Harita27/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/Harita27/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1127-last-stone-weight](https://github.com/Harita27/leetcode/tree/master/1127-last-stone-weight) |
+| [3226-minimum-number-game](https://github.com/Harita27/leetcode/tree/master/3226-minimum-number-game) |
 ## Data Stream
 |  |
 | ------- |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Harita27/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2386-min-max-game](https://github.com/Harita27/leetcode/tree/master/2386-min-max-game) |
 | [2886-faulty-keyboard](https://github.com/Harita27/leetcode/tree/master/2886-faulty-keyboard) |
+| [3226-minimum-number-game](https://github.com/Harita27/leetcode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/Harita27/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Harita27/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Memoization
