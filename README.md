@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Harita27/leetcode/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/Harita27/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Harita27/leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Harita27/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0414-third-maximum-number](https://github.com/Harita27/leetcode/tree/master/0414-third-maximum-number) |
 | [0498-diagonal-traverse](https://github.com/Harita27/leetcode/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Harita27/leetcode/tree/master/0500-keyboard-row) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Harita27/leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Harita27/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/Harita27/leetcode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/Harita27/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Harita27/leetcode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Harita27/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/Harita27/leetcode/tree/master/0826-soup-servings) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Harita27/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/Harita27/leetcode/tree/master/0794-swim-in-rising-water) |
 ## Depth-First Search
 |  |
