@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harita27/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Harita27/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Harita27/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Harita27/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Harita27/leetcode/tree/master/0125-valid-palindrome) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harita27/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Harita27/leetcode/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/Harita27/leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Harita27/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Harita27/leetcode/tree/master/0049-group-anagrams) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Harita27/leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/Harita27/leetcode/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Harita27/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0979-di-string-match](https://github.com/Harita27/leetcode/tree/master/0979-di-string-match) |
