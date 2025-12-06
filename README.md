@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harita27/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Harita27/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Harita27/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Harita27/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2605-count-anagrams](https://github.com/Harita27/leetcode/tree/master/2605-count-anagrams) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Harita27/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Bit Manipulation
