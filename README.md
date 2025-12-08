@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-range-product-queries-of-powers](https://github.com/Harita27/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2714-left-and-right-sum-differences](https://github.com/Harita27/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2777-find-the-distinct-difference-array](https://github.com/Harita27/leetcode/tree/master/2777-find-the-distinct-difference-array) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Harita27/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/Harita27/leetcode/tree/master/3226-minimum-number-game) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Harita27/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3311-ant-on-the-boundary](https://github.com/Harita27/leetcode/tree/master/3311-ant-on-the-boundary) |
