@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Harita27/leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Harita27/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Harita27/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/Harita27/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Harita27/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Harita27/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/Harita27/leetcode/tree/master/0376-wiggle-subsequence) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Harita27/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Harita27/leetcode/tree/master/0724-find-pivot-index) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Harita27/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Harita27/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
