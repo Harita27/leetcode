@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Harita27/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Harita27/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harita27/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Harita27/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harita27/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Harita27/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Harita27/leetcode/tree/master/0242-valid-anagram) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Harita27/leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harita27/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Harita27/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/Harita27/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Harita27/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Harita27/leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Harita27/leetcode/tree/master/0217-contains-duplicate) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Harita27/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Harita27/leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Harita27/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Harita27/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Harita27/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Harita27/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harita27/leetcode/tree/master/0268-missing-number) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Harita27/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harita27/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0900-reordered-power-of-2](https://github.com/Harita27/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1983-maximum-population-year](https://github.com/Harita27/leetcode/tree/master/1983-maximum-population-year) |
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harita27/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Harita27/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Harita27/leetcode/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
