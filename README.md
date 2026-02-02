@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/Harita27/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2777-find-the-distinct-difference-array](https://github.com/Harita27/leetcode/tree/master/2777-find-the-distinct-difference-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Harita27/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3024-type-of-triangle](https://github.com/Harita27/leetcode/tree/master/3024-type-of-triangle) |
 | [3226-minimum-number-game](https://github.com/Harita27/leetcode/tree/master/3226-minimum-number-game) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Harita27/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3311-ant-on-the-boundary](https://github.com/Harita27/leetcode/tree/master/3311-ant-on-the-boundary) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Harita27/leetcode/tree/master/0900-reordered-power-of-2) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harita27/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Harita27/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3024-type-of-triangle](https://github.com/Harita27/leetcode/tree/master/3024-type-of-triangle) |
 | [3226-minimum-number-game](https://github.com/Harita27/leetcode/tree/master/3226-minimum-number-game) |
 ## Dynamic Programming
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harita27/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2605-count-anagrams](https://github.com/Harita27/leetcode/tree/master/2605-count-anagrams) |
 | [2652-sum-multiples](https://github.com/Harita27/leetcode/tree/master/2652-sum-multiples) |
+| [3024-type-of-triangle](https://github.com/Harita27/leetcode/tree/master/3024-type-of-triangle) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Harita27/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Bit Manipulation
 |  |
