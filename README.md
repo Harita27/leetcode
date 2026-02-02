@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Harita27/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2605-count-anagrams](https://github.com/Harita27/leetcode/tree/master/2605-count-anagrams) |
 | [2886-faulty-keyboard](https://github.com/Harita27/leetcode/tree/master/2886-faulty-keyboard) |
+| [2942-find-words-containing-character](https://github.com/Harita27/leetcode/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Harita27/leetcode/tree/master/3019-number-of-changing-keys) |
 ## Stack
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/Harita27/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2777-find-the-distinct-difference-array](https://github.com/Harita27/leetcode/tree/master/2777-find-the-distinct-difference-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Harita27/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/Harita27/leetcode/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/Harita27/leetcode/tree/master/3024-type-of-triangle) |
 | [3226-minimum-number-game](https://github.com/Harita27/leetcode/tree/master/3226-minimum-number-game) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Harita27/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
