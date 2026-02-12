@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Harita27/leetcode/tree/master/1448-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Harita27/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Harita27/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1922-count-good-numbers](https://github.com/Harita27/leetcode/tree/master/1922-count-good-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harita27/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Harita27/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Harita27/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Harita27/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Harita27/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Harita27/leetcode/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Harita27/leetcode/tree/master/1922-count-good-numbers) |
 ## Probability and Statistics
 |  |
 | ------- |
