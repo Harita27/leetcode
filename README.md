@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Harita27/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Harita27/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Harita27/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Harita27/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Harita27/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Harita27/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Harita27/leetcode/tree/master/0268-missing-number) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Harita27/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Harita27/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Harita27/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Harita27/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/Harita27/leetcode/tree/master/0367-valid-perfect-square) |
