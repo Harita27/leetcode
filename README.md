@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Harita27/leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Harita27/leetcode/tree/master/0518-coin-change-ii) |
 | [0679-24-game](https://github.com/Harita27/leetcode/tree/master/0679-24-game) |
+| [0704-binary-search](https://github.com/Harita27/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Harita27/leetcode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Harita27/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/Harita27/leetcode/tree/master/0794-swim-in-rising-water) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harita27/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Harita27/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/Harita27/leetcode/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/Harita27/leetcode/tree/master/0704-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Harita27/leetcode/tree/master/0794-swim-in-rising-water) |
 ## Depth-First Search
 |  |
