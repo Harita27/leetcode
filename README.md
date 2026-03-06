@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harita27/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Harita27/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Harita27/leetcode/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Harita27/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Harita27/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Harita27/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Harita27/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Harita27/leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Harita27/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Harita27/leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Harita27/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Harita27/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Harita27/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harita27/leetcode/tree/master/0268-missing-number) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Harita27/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Harita27/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0506-relative-ranks](https://github.com/Harita27/leetcode/tree/master/0506-relative-ranks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Harita27/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harita27/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Harita27/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Harita27/leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Harita27/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -545,4 +549,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Harita27/leetcode/tree/master/0148-sort-list) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Harita27/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
