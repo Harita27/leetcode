@@ -1,19 +1,20 @@
 class Solution {
-    public int thirdMax(int[] arr) {
-        long first = Long.MIN_VALUE, second = Long.MIN_VALUE, third = Long.MIN_VALUE;
-        for (int num : arr) {
-            if (num == first || num == second || num == third) continue;
-            if(num>first){
-                third=second;
-                second=first;
-                first=num;
-            }else if(num>second && num!=first){
-                third=second;
-                second=num;
-            }else if( num>third && num!=second && num!=first){
-                third=num;
-            }
+    public int thirdMax(int[] nums) {
+        PriorityQueue<Integer> maxheap=new PriorityQueue<>(Collections.reverseOrder());
+        HashSet<Integer> set=new HashSet<>();
+        for(int num:nums){
+            set.add(num);
         }
-        return third == Long.MIN_VALUE ? (int) first : (int) third;
+        for(int num:set){
+            maxheap.add(num);
+        }
+        if(set.size()<3){
+            return maxheap.peek();
+        }
+        int ans=-1;
+        for(int i=0;i<3;i++){
+            ans=maxheap.poll();
+        }
+        return ans;
     }
 }
