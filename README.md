@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Harita27/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Harita27/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Harita27/leetcode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Harita27/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Harita27/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Harita27/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Harita27/leetcode/tree/master/0344-reverse-string) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Harita27/leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Harita27/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Harita27/leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Harita27/leetcode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harita27/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Harita27/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harita27/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -379,12 +381,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Harita27/leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Harita27/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Harita27/leetcode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/Harita27/leetcode/tree/master/0079-word-search) |
 | [0679-24-game](https://github.com/Harita27/leetcode/tree/master/0679-24-game) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Harita27/leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Harita27/leetcode/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/Harita27/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Harita27/leetcode/tree/master/0130-surrounded-regions) |
 | [0498-diagonal-traverse](https://github.com/Harita27/leetcode/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/Harita27/leetcode/tree/master/0794-swim-in-rising-water) |
@@ -427,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Harita27/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Harita27/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Harita27/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Harita27/leetcode/tree/master/0101-symmetric-tree) |
