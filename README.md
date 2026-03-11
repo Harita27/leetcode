@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Harita27/leetcode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Harita27/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/Harita27/leetcode/tree/master/0794-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/Harita27/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0979-di-string-match](https://github.com/Harita27/leetcode/tree/master/0979-di-string-match) |
 | [1031-add-to-array-form-of-integer](https://github.com/Harita27/leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1115-valid-boomerang](https://github.com/Harita27/leetcode/tree/master/1115-valid-boomerang) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Harita27/leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Harita27/leetcode/tree/master/0704-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Harita27/leetcode/tree/master/0794-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/Harita27/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Depth-First Search
 |  |
 | ------- |
