@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Harita27/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Harita27/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1983-maximum-population-year](https://github.com/Harita27/leetcode/tree/master/1983-maximum-population-year) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Harita27/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2102-find-the-middle-index-in-array](https://github.com/Harita27/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Harita27/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Harita27/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Harita27/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Harita27/leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Harita27/leetcode/tree/master/0498-diagonal-traverse) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Harita27/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Harita27/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Harita27/leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Harita27/leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Harita27/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Harita27/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Merge Sort
 |  |
 | ------- |
