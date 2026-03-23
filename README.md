@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/Harita27/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0414-third-maximum-number](https://github.com/Harita27/leetcode/tree/master/0414-third-maximum-number) |
 | [0419-battleships-in-a-board](https://github.com/Harita27/leetcode/tree/master/0419-battleships-in-a-board) |
+| [0435-non-overlapping-intervals](https://github.com/Harita27/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/Harita27/leetcode/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/Harita27/leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Harita27/leetcode/tree/master/0498-diagonal-traverse) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Harita27/leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Harita27/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0414-third-maximum-number](https://github.com/Harita27/leetcode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Harita27/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/Harita27/leetcode/tree/master/0506-relative-ranks) |
 | [0900-reordered-power-of-2](https://github.com/Harita27/leetcode/tree/master/0900-reordered-power-of-2) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harita27/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Harita27/leetcode/tree/master/0322-coin-change) |
 | [0376-wiggle-subsequence](https://github.com/Harita27/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/Harita27/leetcode/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Harita27/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Harita27/leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Harita27/leetcode/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Harita27/leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Harita27/leetcode/tree/master/0011-container-with-most-water) |
 | [0376-wiggle-subsequence](https://github.com/Harita27/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0409-longest-palindrome](https://github.com/Harita27/leetcode/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/Harita27/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0680-valid-palindrome-ii](https://github.com/Harita27/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0979-di-string-match](https://github.com/Harita27/leetcode/tree/master/0979-di-string-match) |
 | [1448-maximum-69-number](https://github.com/Harita27/leetcode/tree/master/1448-maximum-69-number) |
