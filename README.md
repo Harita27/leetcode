@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Harita27/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harita27/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harita27/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Harita27/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Harita27/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Harita27/leetcode/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/Harita27/leetcode/tree/master/0500-keyboard-row) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Harita27/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harita27/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harita27/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Harita27/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Harita27/leetcode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Harita27/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Harita27/leetcode/tree/master/0500-keyboard-row) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Harita27/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Harita27/leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Harita27/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0389-find-the-difference](https://github.com/Harita27/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Harita27/leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Harita27/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Harita27/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Harita27/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Harita27/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Harita27/leetcode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Harita27/leetcode/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/Harita27/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2529-range-product-queries-of-powers](https://github.com/Harita27/leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Recursion
