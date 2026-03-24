@@ -4,11 +4,13 @@ class Solution {
         int arrow=points[0][1];
         int count=1;
         for(int i=1;i<points.length;i++){
-            if(points[i][0]>arrow){
+            if(points[i][0]<=arrow && points[i][1]>=arrow){
+                continue;
+            }
+            else{
                 arrow=points[i][1];
                 count+=1;
             }
-            else continue;
         }
         return count;
     }
