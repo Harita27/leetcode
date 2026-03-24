@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Harita27/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Harita27/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Harita27/leetcode/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Harita27/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/Harita27/leetcode/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/Harita27/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harita27/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Harita27/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Harita27/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Harita27/leetcode/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Harita27/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Harita27/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Harita27/leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Harita27/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harita27/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Harita27/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Harita27/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0867-new-21-game](https://github.com/Harita27/leetcode/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harita27/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Array
