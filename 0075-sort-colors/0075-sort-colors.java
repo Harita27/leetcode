@@ -1,12 +1,27 @@
 class Solution {
     public void sortColors(int[] nums) {
-        PriorityQueue<Integer> min=new PriorityQueue<>();
-        for(int n:nums){
-            min.add(n);
-        }
-        for(int i=0;i<nums.length;i++){
-            nums[i]=min.poll();
+        int low=0;
+        int mid=0;
+        int high=nums.length-1;
+        while(mid<=high){
+            if(nums[mid]==0){
+                swap(nums,low,mid);
+                low++;
+                mid++;
+            }
+            else if(nums[mid]==1){
+                mid++;
+            }
+            else if(nums[mid]==2){
+                swap(nums,mid,high);
+                high--;
+            }
         }
         return;
+    }
+    void swap(int[] nums,int l,int r){
+        int t=nums[l];
+        nums[l]=nums[r];
+        nums[r]=t;
     }
 }
