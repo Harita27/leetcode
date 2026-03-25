@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/Harita27/leetcode/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/Harita27/leetcode/tree/master/0979-di-string-match) |
 | [1168-duplicate-zeros](https://github.com/Harita27/leetcode/tree/master/1168-duplicate-zeros) |
+| [1537-get-the-maximum-score](https://github.com/Harita27/leetcode/tree/master/1537-get-the-maximum-score) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Harita27/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Harita27/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## String
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/Harita27/leetcode/tree/master/1168-duplicate-zeros) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Harita27/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Harita27/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1537-get-the-maximum-score](https://github.com/Harita27/leetcode/tree/master/1537-get-the-maximum-score) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harita27/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Harita27/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Harita27/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Harita27/leetcode/tree/master/0867-new-21-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Harita27/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Harita27/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1537-get-the-maximum-score](https://github.com/Harita27/leetcode/tree/master/1537-get-the-maximum-score) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harita27/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Harita27/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Harita27/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Harita27/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0979-di-string-match](https://github.com/Harita27/leetcode/tree/master/0979-di-string-match) |
 | [1448-maximum-69-number](https://github.com/Harita27/leetcode/tree/master/1448-maximum-69-number) |
+| [1537-get-the-maximum-score](https://github.com/Harita27/leetcode/tree/master/1537-get-the-maximum-score) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harita27/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Harita27/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Harita27/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
