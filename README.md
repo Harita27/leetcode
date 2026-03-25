@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harita27/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Harita27/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harita27/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Harita27/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/Harita27/leetcode/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harita27/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Array
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Harita27/leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Harita27/leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Harita27/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Harita27/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/Harita27/leetcode/tree/master/0679-24-game) |
 | [0704-binary-search](https://github.com/Harita27/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Harita27/leetcode/tree/master/0724-find-pivot-index) |
