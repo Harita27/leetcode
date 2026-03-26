@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Harita27/leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Harita27/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Harita27/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Harita27/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Harita27/leetcode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harita27/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/Harita27/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Harita27/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Harita27/leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Harita27/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Harita27/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Harita27/leetcode/tree/master/0342-power-of-four) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Harita27/leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Harita27/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Harita27/leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Harita27/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Harita27/leetcode/tree/master/0079-word-search) |
 | [0679-24-game](https://github.com/Harita27/leetcode/tree/master/0679-24-game) |
 ## Matrix
