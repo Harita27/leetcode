@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Harita27/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Harita27/leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Harita27/leetcode/tree/master/0051-n-queens) |
+| [0077-combinations](https://github.com/Harita27/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Harita27/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Harita27/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Harita27/leetcode/tree/master/0090-subsets-ii) |
