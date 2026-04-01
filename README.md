@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-valid-boomerang](https://github.com/Harita27/leetcode/tree/master/1115-valid-boomerang) |
 | [1127-last-stone-weight](https://github.com/Harita27/leetcode/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/Harita27/leetcode/tree/master/1168-duplicate-zeros) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Harita27/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Harita27/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Harita27/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-get-the-maximum-score](https://github.com/Harita27/leetcode/tree/master/1537-get-the-maximum-score) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Harita27/leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Harita27/leetcode/tree/master/0867-new-21-game) |
 | [1236-n-th-tribonacci-number](https://github.com/Harita27/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/Harita27/leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Harita27/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1537-get-the-maximum-score](https://github.com/Harita27/leetcode/tree/master/1537-get-the-maximum-score) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harita27/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
