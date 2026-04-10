@@ -560,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harita27/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Harita27/leetcode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Harita27/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Harita27/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Harita27/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Harita27/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Harita27/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Harita27/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Harita27/leetcode/tree/master/0994-rotting-oranges) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Harita27/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Harita27/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Harita27/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Harita27/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Harita27/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Harita27/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Harita27/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Harita27/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Harita27/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Harita27/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Harita27/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
