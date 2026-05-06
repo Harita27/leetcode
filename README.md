@@ -756,5 +756,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/Harita27/leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Harita27/leetcode/tree/master/0177-nth-highest-salary) |
 | [0184-department-highest-salary](https://github.com/Harita27/leetcode/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/Harita27/leetcode/tree/master/0185-department-top-three-salaries) |
 | [0577-employee-bonus](https://github.com/Harita27/leetcode/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
