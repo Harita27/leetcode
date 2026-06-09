@@ -1,26 +1,48 @@
 class Solution {
-    public int largestRectangleArea(int[] heights) {
+    static int[] NSE(int[] arr) {
+        int[] nums=new int[arr.length];
         Stack<Integer> st=new Stack<>();
-        int len=heights.length;
-        int max=0;int count=1;
-        for(int i=0;i<=len;i++){
-            int currHeight=0;
-            if(i<len) currHeight=heights[i];
-            while (!st.isEmpty() && heights[st.peek()]>currHeight){
-                int height=heights[st.pop()];
-                int right=i;int left=0;
-                if(st.isEmpty()){
-                   left=-1;
-                }
-                else{
-                    left=st.peek();
-                }
-                int width=right-left-1;
-                max=Math.max(max,height*width);
+        for(int i=arr.length-1;i>=0;i--){
+            while(!st.isEmpty() && arr[st.peek()]>=arr[i])
+            {
+                st.pop();
             }
-            if(i<len)
+            if(st.isEmpty()){
+                nums[i]=arr.length-1;
+            }
+            else{
+                nums[i]=st.peek()-1;
+            }
             st.push(i);
         }
-        return max;
+        return nums;
+    }
+    static int[] PSE(int[] arr) {
+        int[] nums=new int[arr.length];
+        Stack<Integer> st=new Stack<>();
+        for(int i=0;i<arr.length;i++){
+            while(!st.isEmpty() && arr[st.peek()]>=arr[i])
+            {
+                st.pop();
+            }
+            if(st.isEmpty()){
+                nums[i]=0;
+            }
+            else{
+                nums[i]=st.peek()+1;
+            }
+            st.push(i);
+        }
+        return nums;
+    }
+    public int largestRectangleArea(int[] heights){
+        int len=heights.length;
+        int maxArea=0;int count=1;
+        int[] arr1=NSE(heights);
+        int arr2[]=PSE(heights);
+        for(int i=0;i<heights.length;i++){
+            maxArea=Math.max(maxArea,(Math.abs(arr1[i]-arr2[i])+1)*heights[i]);
+        }
+        return maxArea;
     }
 }
