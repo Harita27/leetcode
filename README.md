@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harita27/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Harita27/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Harita27/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harita27/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Harita27/leetcode/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2605-count-anagrams](https://github.com/Harita27/leetcode/tree/master/2605-count-anagrams) |
 | [2777-find-the-distinct-difference-array](https://github.com/Harita27/leetcode/tree/master/2777-find-the-distinct-difference-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Harita27/leetcode/tree/master/0867-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/Harita27/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harita27/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harita27/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Array
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2386-min-max-game](https://github.com/Harita27/leetcode/tree/master/2386-min-max-game) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Harita27/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Harita27/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Harita27/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Harita27/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2529-range-product-queries-of-powers](https://github.com/Harita27/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harita27/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
