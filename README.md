@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Harita27/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Harita27/leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Harita27/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Harita27/leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Harita27/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/Harita27/leetcode/tree/master/0771-jewels-and-stones) |
 | [0900-reordered-power-of-2](https://github.com/Harita27/leetcode/tree/master/0900-reordered-power-of-2) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Harita27/leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Harita27/leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Harita27/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Harita27/leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Harita27/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/Harita27/leetcode/tree/master/0679-24-game) |
 | [0704-binary-search](https://github.com/Harita27/leetcode/tree/master/0704-binary-search) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harita27/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Harita27/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0506-relative-ranks](https://github.com/Harita27/leetcode/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/Harita27/leetcode/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/Harita27/leetcode/tree/master/0900-reordered-power-of-2) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Harita27/leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Harita27/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harita27/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Harita27/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Harita27/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/Harita27/leetcode/tree/master/0621-task-scheduler) |
 | [0900-reordered-power-of-2](https://github.com/Harita27/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1983-maximum-population-year](https://github.com/Harita27/leetcode/tree/master/1983-maximum-population-year) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/Harita27/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -465,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Harita27/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Harita27/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Harita27/leetcode/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/Harita27/leetcode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Harita27/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/Harita27/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1127-last-stone-weight](https://github.com/Harita27/leetcode/tree/master/1127-last-stone-weight) |
@@ -492,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Harita27/leetcode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Harita27/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Harita27/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/Harita27/leetcode/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/Harita27/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0979-di-string-match](https://github.com/Harita27/leetcode/tree/master/0979-di-string-match) |
 | [1448-maximum-69-number](https://github.com/Harita27/leetcode/tree/master/1448-maximum-69-number) |
