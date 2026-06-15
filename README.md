@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Harita27/leetcode/tree/master/0979-di-string-match) |
 | [1168-duplicate-zeros](https://github.com/Harita27/leetcode/tree/master/1168-duplicate-zeros) |
 | [1537-get-the-maximum-score](https://github.com/Harita27/leetcode/tree/master/1537-get-the-maximum-score) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harita27/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Harita27/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Harita27/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## String
@@ -741,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Harita27/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Harita27/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Harita27/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Harita27/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Graph
 |  |
 | ------- |
