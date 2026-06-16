@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/Harita27/leetcode/tree/master/2886-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/Harita27/leetcode/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Harita27/leetcode/tree/master/3019-number-of-changing-keys) |
+| [3612-process-string-with-special-operations-i](https://github.com/Harita27/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/Harita27/leetcode/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/Harita27/leetcode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/Harita27/leetcode/tree/master/3311-ant-on-the-boundary) |
+| [3612-process-string-with-special-operations-i](https://github.com/Harita27/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Harita27/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Memoization
 |  |
