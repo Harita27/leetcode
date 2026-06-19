@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Harita27/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Harita27/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Harita27/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/Harita27/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/Harita27/leetcode/tree/master/1983-maximum-population-year) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Harita27/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2102-find-the-middle-index-in-array](https://github.com/Harita27/leetcode/tree/master/2102-find-the-middle-index-in-array) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Harita27/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Harita27/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Harita27/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/Harita27/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/Harita27/leetcode/tree/master/1983-maximum-population-year) |
 | [2102-find-the-middle-index-in-array](https://github.com/Harita27/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2529-range-product-queries-of-powers](https://github.com/Harita27/leetcode/tree/master/2529-range-product-queries-of-powers) |
