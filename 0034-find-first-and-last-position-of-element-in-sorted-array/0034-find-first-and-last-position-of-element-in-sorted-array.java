@@ -12,15 +12,16 @@ class Solution {
             int mid=low+(high-low)/2;
             if(nums[mid]==target){
                 ans=mid;
-            if(flag){
-                high=mid-1;
-            }
-            else low=mid+1;
+                if(flag){
+                    high=mid-1;
+                }
+                else low=mid+1;
             }
             else if(nums[mid]>target){
                 high=mid-1;
             }
             else low=mid+1;
+        
         }
         return ans;
     }
